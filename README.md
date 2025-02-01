@@ -1,1 +1,1 @@
-# Time-travell
+This project retrieves the Top 100 songs from a specific year by scraping data from Billboard's Hot 100 chart. It uses the Requests module and BeautifulSoup for web scraping to extract song titles from the Billboard website. The extracted song list is then used to search for tracks on Spotify using the Spotipy API, and a new playlist is created with those songs.
